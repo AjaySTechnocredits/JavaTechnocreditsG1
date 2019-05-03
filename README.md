@@ -1,2 +1,2 @@
-# JavaTechnocreditsG1
+# JavaPractice
 Created for Group1 member 
